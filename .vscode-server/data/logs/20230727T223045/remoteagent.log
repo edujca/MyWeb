@@ -1,0 +1,27 @@
+2023-07-27 22:30:45.288 [info] 
+
+
+
+
+2023-07-27 22:30:45.325 [info] Extension host agent started.
+2023-07-27 22:30:45.964 [info] Deleted from disk esbenp.prettier-vscode /home/edujca/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4
+2023-07-27 22:30:45.965 [info] Deleted from disk ms-ceintl.vscode-language-pack-es /home/edujca/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.72.10121011
+2023-07-27 22:30:46.152 [info] [127.0.0.1][cc49bac3][ManagementConnection] New connection established.
+2023-07-27 22:30:46.182 [info] Deleted from disk eamodio.gitlens /home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0
+2023-07-27 22:30:46.793 [info] Deleted from disk ms-vscode.vscode-typescript-next /home/edujca/.vscode-server/extensions/ms-vscode.vscode-typescript-next-5.0.202302100
+2023-07-27 22:30:46.794 [info] Deleted from disk streetsidesoftware.code-spell-checker /home/edujca/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.16.0
+2023-07-27 22:30:46.794 [info] Deleted from disk streetsidesoftware.code-spell-checker-spanish /home/edujca/.vscode-server/extensions/streetsidesoftware.code-spell-checker-spanish-2.1.6
+2023-07-27 22:30:47.167 [info] Deleted from disk xdebug.php-debug /home/edujca/.vscode-server/extensions/xdebug.php-debug-1.31.0
+2023-07-27 22:30:47.239 [info] [127.0.0.1][447b8e5b][ExtensionHostConnection] New connection established.
+2023-07-27 22:30:47.258 [info] Deleted from disk pranaygp.vscode-css-peek /home/edujca/.vscode-server/extensions/pranaygp.vscode-css-peek-4.2.0
+2023-07-27 22:30:47.379 [info] Deleted from disk zobo.php-intellisense /home/edujca/.vscode-server/extensions/zobo.php-intellisense-1.0.13
+2023-07-27 22:30:47.402 [info] [127.0.0.1][447b8e5b][ExtensionHostConnection] <505> Launched Extension Host Process.
+2023-07-27 22:38:13.851 [info] [127.0.0.1][cc49bac3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-27 22:38:13.929 [info] [127.0.0.1][447b8e5b][ExtensionHostConnection] <505> Extension Host Process exited with code: 0, signal: null.
+2023-07-27 22:38:16.876 [info] [127.0.0.1][07bbc070][ManagementConnection] New connection established.
+2023-07-27 22:38:18.364 [info] [127.0.0.1][86d67bb4][ExtensionHostConnection] New connection established.
+2023-07-27 22:38:18.375 [info] [127.0.0.1][86d67bb4][ExtensionHostConnection] <708> Launched Extension Host Process.
+2023-07-27 22:38:20.899 [info] [127.0.0.1][86d67bb4][ExtensionHostConnection] <708><stderr> /bin/sh: 1: php: not found
+
+2023-07-27 22:41:20.718 [info] [127.0.0.1][07bbc070][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-27 22:41:20.856 [info] [127.0.0.1][86d67bb4][ExtensionHostConnection] <708> Extension Host Process exited with code: 0, signal: null.

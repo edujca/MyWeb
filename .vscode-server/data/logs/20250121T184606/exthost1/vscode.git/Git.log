@@ -1,0 +1,49 @@
+2025-01-21 18:46:14.782 [info] [main] Log level: Info
+2025-01-21 18:46:14.782 [info] [main] Validating found git in: "git"
+2025-01-21 18:46:14.782 [info] [main] Using git "2.34.1" from "git"
+2025-01-21 18:46:14.782 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-21 18:46:14.782 [info] > git rev-parse --show-toplevel [381ms]
+2025-01-21 18:46:14.782 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:14.793 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 18:46:14.793 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:14.801 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 18:46:14.801 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:14.922 [info] > git rev-parse --show-toplevel [99ms]
+2025-01-21 18:46:14.922 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:14.933 [info] > git rev-parse --show-toplevel [6ms]
+2025-01-21 18:46:14.933 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:14.939 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-21 18:46:29.652 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 18:46:29.652 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:30.652 [info] > git rev-parse --show-toplevel [11ms]
+2025-01-21 18:46:30.652 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:30.662 [info] > git rev-parse --show-toplevel [4ms]
+2025-01-21 18:46:30.662 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:30.673 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 18:46:30.673 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:31.140 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 18:46:31.140 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:32.650 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 18:46:32.650 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:32.661 [info] > git rev-parse --show-toplevel [3ms]
+2025-01-21 18:46:32.661 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:32.662 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/edujca/.vscode-server/extensions/.6849bfd7-9c86-4569-8d43-d14dfbc3d382/node_modules/balanced-match/". Error:Error: ENOENT: no such file or directory, realpath '/home/edujca/.vscode-server/extensions/.6849bfd7-9c86-4569-8d43-d14dfbc3d382/node_modules/balanced-match/'
+2025-01-21 18:46:33.641 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/edujca/.vscode-server/extensions/.6849bfd7-9c86-4569-8d43-d14dfbc3d382/node_modules/balanced-match/". Error:Error: ENOENT: no such file or directory, realpath '/home/edujca/.vscode-server/extensions/.6849bfd7-9c86-4569-8d43-d14dfbc3d382/node_modules/balanced-match/'
+2025-01-21 18:46:33.654 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 18:46:33.655 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:36.489 [info] > git rev-parse --show-toplevel [3ms]
+2025-01-21 18:46:36.489 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:40.499 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/edujca/.vscode-server/extensions/.67f812af-6bce-48ae-9834-8c873c8fb9c8/node_modules/brace-expansion/". Error:Error: ENOENT: no such file or directory, realpath '/home/edujca/.vscode-server/extensions/.67f812af-6bce-48ae-9834-8c873c8fb9c8/node_modules/brace-expansion/'
+2025-01-21 18:46:41.023 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/edujca/.vscode-server/extensions/.67f812af-6bce-48ae-9834-8c873c8fb9c8/node_modules/balanced-match/". Error:Error: ENOENT: no such file or directory, realpath '/home/edujca/.vscode-server/extensions/.67f812af-6bce-48ae-9834-8c873c8fb9c8/node_modules/balanced-match/'
+2025-01-21 18:46:41.915 [info] > git rev-parse --show-toplevel [213ms]
+2025-01-21 18:46:41.915 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:41.987 [info] > git rev-parse --show-toplevel [27ms]
+2025-01-21 18:46:41.987 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:45.195 [info] > git rev-parse --show-toplevel [8ms]
+2025-01-21 18:46:45.195 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:49.525 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 18:46:49.525 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 18:46:50.579 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/edujca/.vscode-server/extensions/.1e6a53f8-28f4-404a-91ed-59a5c0202593/vendor/sabre/event/". Error:Error: ENOENT: no such file or directory, realpath '/home/edujca/.vscode-server/extensions/.1e6a53f8-28f4-404a-91ed-59a5c0202593/vendor/sabre/event/'
+2025-01-21 18:46:50.583 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/edujca/.vscode-server/extensions/.1e6a53f8-28f4-404a-91ed-59a5c0202593/vendor/webmozart/glob/". Error:Error: ENOENT: no such file or directory, realpath '/home/edujca/.vscode-server/extensions/.1e6a53f8-28f4-404a-91ed-59a5c0202593/vendor/webmozart/glob/'
+2025-01-21 18:46:50.586 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/edujca/.vscode-server/extensions/.1e6a53f8-28f4-404a-91ed-59a5c0202593/node_modules/balanced-match/". Error:Error: ENOENT: no such file or directory, realpath '/home/edujca/.vscode-server/extensions/.1e6a53f8-28f4-404a-91ed-59a5c0202593/node_modules/balanced-match/'
+2025-01-21 18:46:50.589 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/edujca/.vscode-server/extensions/.1e6a53f8-28f4-404a-91ed-59a5c0202593/node_modules/vscode-languageclient/node_modules/brace-expansion/". Error:Error: ENOENT: no such file or directory, realpath '/home/edujca/.vscode-server/extensions/.1e6a53f8-28f4-404a-91ed-59a5c0202593/node_modules/vscode-languageclient/node_modules/brace-expansion/'

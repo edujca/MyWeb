@@ -1,0 +1,112 @@
+2023-07-27 22:29:10.420 [info] 
+
+
+
+
+2023-07-27 22:29:10.456 [info] Extension host agent started.
+2023-07-27 22:29:10.551 [info] Started initializing default profile extensions in extensions installation folder. file:///home/edujca/.vscode-server/extensions
+2023-07-27 22:29:10.791 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/edujca/.vscode-server/extensions
+2023-07-27 22:29:11.589 [info] [127.0.0.1][44c613af][ManagementConnection] New connection established.
+2023-07-27 22:29:13.364 [info] [127.0.0.1][890d0015][ExtensionHostConnection] New connection established.
+2023-07-27 22:29:13.386 [info] [127.0.0.1][890d0015][ExtensionHostConnection] <134> Launched Extension Host Process.
+2023-07-27 22:29:14.900 [info] Getting Manifest... devsense.phptools-vscode
+2023-07-27 22:29:15.030 [info] Installing extension: devsense.phptools-vscode
+2023-07-27 22:29:17.270 [info] Getting Manifest... devsense.composer-php-vscode
+2023-07-27 22:29:17.323 [info] Getting Manifest... devsense.profiler-php-vscode
+2023-07-27 22:29:17.689 [info] Installing extension: devsense.composer-php-vscode devsense.phptools-vscode
+2023-07-27 22:29:17.690 [info] Installing extension: devsense.profiler-php-vscode devsense.phptools-vscode
+2023-07-27 22:29:24.949 [info] Extension signature verification: devsense.profiler-php-vscode. Verification status: Verified.
+2023-07-27 22:29:24.969 [info] Extension signature verification: devsense.composer-php-vscode. Verification status: Verified.
+2023-07-27 22:29:25.131 [info] Extracted extension to /home/edujca/.vscode-server/extensions/.41b6a8e1-57c4-441c-a79c-ae2f2ff3b561: devsense.composer-php-vscode
+2023-07-27 22:29:25.166 [info] Renamed to /home/edujca/.vscode-server/extensions/devsense.composer-php-vscode-1.36.13417
+2023-07-27 22:29:25.175 [info] Extracting completed. devsense.composer-php-vscode
+2023-07-27 22:29:25.184 [info] Extracted extension to /home/edujca/.vscode-server/extensions/.ca3ee666-41ce-4751-9c58-772004b9e2a4: devsense.profiler-php-vscode
+2023-07-27 22:29:25.202 [info] Renamed to /home/edujca/.vscode-server/extensions/devsense.profiler-php-vscode-1.36.13417
+2023-07-27 22:29:25.207 [info] Extracting completed. devsense.profiler-php-vscode
+2023-07-27 22:29:31.844 [info] Extension signature verification: devsense.phptools-vscode. Verification status: Verified.
+2023-07-27 22:29:33.316 [info] Extracted extension to /home/edujca/.vscode-server/extensions/.ce13b7aa-e88d-4d98-a59e-8a80f4102cea: devsense.phptools-vscode
+2023-07-27 22:29:33.329 [info] Renamed to /home/edujca/.vscode-server/extensions/devsense.phptools-vscode-1.33.12934-linux-x64
+2023-07-27 22:29:33.343 [info] Extracting completed. devsense.phptools-vscode
+2023-07-27 22:29:33.354 [info] Extension installed successfully: devsense.composer-php-vscode
+2023-07-27 22:29:33.354 [info] Extension installed successfully: devsense.profiler-php-vscode
+2023-07-27 22:29:33.354 [info] Extension installed successfully: devsense.phptools-vscode
+2023-07-27 22:29:42.689 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-07-27 22:29:42.689 [info] Getting Manifest... eamodio.gitlens
+2023-07-27 22:29:42.690 [info] Getting Manifest... esbenp.prettier-vscode
+2023-07-27 22:29:42.690 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-07-27 22:29:42.690 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2023-07-27 22:29:42.690 [info] Getting Manifest... pranaygp.vscode-css-peek
+2023-07-27 22:29:42.690 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2023-07-27 22:29:42.690 [info] Getting Manifest... streetsidesoftware.code-spell-checker-spanish
+2023-07-27 22:29:42.690 [info] Getting Manifest... xdebug.php-debug
+2023-07-27 22:29:42.691 [info] Getting Manifest... zobo.php-intellisense
+2023-07-27 22:29:42.782 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-07-27 22:29:42.788 [info] Installing extension: esbenp.prettier-vscode
+2023-07-27 22:29:42.790 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-es
+2023-07-27 22:29:42.802 [info] Installing extension: streetsidesoftware.code-spell-checker-spanish
+2023-07-27 22:29:42.820 [info] Installing extension: ms-vscode.vscode-typescript-next
+2023-07-27 22:29:42.834 [info] Installing extension: pranaygp.vscode-css-peek
+2023-07-27 22:29:42.865 [info] Installing extension: xdebug.php-debug
+2023-07-27 22:29:42.870 [info] Installing extension: streetsidesoftware.code-spell-checker
+2023-07-27 22:29:42.873 [info] Installing extension: zobo.php-intellisense
+2023-07-27 22:29:42.987 [info] Installing extension: eamodio.gitlens
+2023-07-27 22:29:46.124 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2023-07-27 22:29:46.408 [info] Waiting for already requested installing extension streetsidesoftware.code-spell-checker streetsidesoftware.code-spell-checker-spanish
+2023-07-27 22:29:51.616 [info] Extension signature verification: ms-ceintl.vscode-language-pack-es. Verification status: Verified.
+2023-07-27 22:29:51.890 [info] Extension signature verification: esbenp.prettier-vscode. Verification status: Verified.
+2023-07-27 22:29:52.077 [info] Extension signature verification: xdebug.php-debug. Verification status: Verified.
+2023-07-27 22:29:52.504 [info] Extension signature verification: streetsidesoftware.code-spell-checker. Verification status: Verified.
+2023-07-27 22:29:52.512 [info] Extension signature verification: zobo.php-intellisense. Verification status: Verified.
+2023-07-27 22:29:52.881 [info] Extension signature verification: ms-vscode.vscode-typescript-next. Verification status: Verified.
+2023-07-27 22:29:53.068 [info] Extension signature verification: streetsidesoftware.code-spell-checker-spanish. Verification status: Verified.
+2023-07-27 22:29:53.263 [info] Extension signature verification: pranaygp.vscode-css-peek. Verification status: Verified.
+2023-07-27 22:29:53.548 [info] Extracted extension to /home/edujca/.vscode-server/extensions/.f264f07e-75c2-4113-8ef7-740f4de95dd1: ms-ceintl.vscode-language-pack-es
+2023-07-27 22:29:53.583 [info] Renamed to /home/edujca/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.75.2023021509
+2023-07-27 22:29:53.612 [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+2023-07-27 22:29:53.662 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2023-07-27 22:29:53.713 [info] Extracted extension to /home/edujca/.vscode-server/extensions/.fe9b0384-3874-4be4-8e19-9b7c2cd4d2d5: streetsidesoftware.code-spell-checker-spanish
+2023-07-27 22:29:53.959 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.72.10121011
+2023-07-27 22:29:53.970 [info] Renamed to /home/edujca/.vscode-server/extensions/streetsidesoftware.code-spell-checker-spanish-2.2.0
+2023-07-27 22:29:53.990 [info] Extension signature verification: eamodio.gitlens. Verification status: Verified.
+2023-07-27 22:29:54.013 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2023-07-27 22:29:54.026 [info] Extracting completed. streetsidesoftware.code-spell-checker-spanish
+2023-07-27 22:29:54.239 [info] Marked extension as uninstalled streetsidesoftware.code-spell-checker-spanish-2.1.6
+2023-07-27 22:29:54.762 [info] Extracted extension to /home/edujca/.vscode-server/extensions/.1b5d3416-48bc-4224-9c70-1a72f8af3dbc: esbenp.prettier-vscode
+2023-07-27 22:29:54.800 [info] Renamed to /home/edujca/.vscode-server/extensions/esbenp.prettier-vscode-9.19.0
+2023-07-27 22:29:54.827 [info] Extracting completed. esbenp.prettier-vscode
+2023-07-27 22:29:54.864 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-07-27 22:29:54.982 [info] Marked extension as uninstalled esbenp.prettier-vscode-9.10.4
+2023-07-27 22:30:00.229 [info] Extracted extension to /home/edujca/.vscode-server/extensions/.e08c3c58-1314-4329-9f22-38da896df072: streetsidesoftware.code-spell-checker
+2023-07-27 22:30:00.281 [info] Renamed to /home/edujca/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.20.3
+2023-07-27 22:30:00.297 [info] Extracting completed. streetsidesoftware.code-spell-checker
+2023-07-27 22:30:00.319 [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+2023-07-27 22:30:00.323 [info] Finished waiting for already requested installing extension streetsidesoftware.code-spell-checker streetsidesoftware.code-spell-checker-spanish
+2023-07-27 22:30:00.325 [info] Extension installed successfully: streetsidesoftware.code-spell-checker-spanish
+2023-07-27 22:30:00.411 [info] Marked extension as uninstalled streetsidesoftware.code-spell-checker-2.16.0
+2023-07-27 22:30:01.422 [info] Extracted extension to /home/edujca/.vscode-server/extensions/.ba621cb5-542f-481a-b185-5bf4ee6f4667: eamodio.gitlens
+2023-07-27 22:30:01.471 [info] Renamed to /home/edujca/.vscode-server/extensions/eamodio.gitlens-13.5.0
+2023-07-27 22:30:01.505 [info] Extracting completed. eamodio.gitlens
+2023-07-27 22:30:01.537 [info] Extension installed successfully: eamodio.gitlens
+2023-07-27 22:30:01.627 [info] Extracted extension to /home/edujca/.vscode-server/extensions/.a09b5aad-4536-4552-8b24-6786a4fc5bb7: ms-vscode.vscode-typescript-next
+2023-07-27 22:30:01.654 [info] Marked extension as uninstalled eamodio.gitlens-13.2.0
+2023-07-27 22:30:01.666 [info] Renamed to /home/edujca/.vscode-server/extensions/ms-vscode.vscode-typescript-next-5.2.20230726
+2023-07-27 22:30:01.676 [info] Extracting completed. ms-vscode.vscode-typescript-next
+2023-07-27 22:30:01.702 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+2023-07-27 22:30:01.836 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.0.202302100
+2023-07-27 22:30:03.690 [info] Extracted extension to /home/edujca/.vscode-server/extensions/.6fa63186-2d65-4ea0-8990-fe49371f1e41: xdebug.php-debug
+2023-07-27 22:30:03.728 [info] Renamed to /home/edujca/.vscode-server/extensions/xdebug.php-debug-1.33.0
+2023-07-27 22:30:03.740 [info] Extracting completed. xdebug.php-debug
+2023-07-27 22:30:03.760 [info] Extension installed successfully: xdebug.php-debug
+2023-07-27 22:30:03.841 [info] Marked extension as uninstalled xdebug.php-debug-1.31.0
+2023-07-27 22:30:17.954 [info] Extracted extension to /home/edujca/.vscode-server/extensions/.0cf4ab4b-5b9e-42bc-8a03-3a3d2ce1c28f: zobo.php-intellisense
+2023-07-27 22:30:17.972 [info] Renamed to /home/edujca/.vscode-server/extensions/zobo.php-intellisense-1.2.0
+2023-07-27 22:30:17.976 [info] Extracting completed. zobo.php-intellisense
+2023-07-27 22:30:17.994 [info] Extension installed successfully: zobo.php-intellisense
+2023-07-27 22:30:18.113 [info] Marked extension as uninstalled zobo.php-intellisense-1.0.13
+2023-07-27 22:30:19.092 [info] Extracted extension to /home/edujca/.vscode-server/extensions/.4e8aa899-8ffe-41fb-8731-af9a15908950: pranaygp.vscode-css-peek
+2023-07-27 22:30:19.107 [info] Renamed to /home/edujca/.vscode-server/extensions/pranaygp.vscode-css-peek-4.4.1
+2023-07-27 22:30:19.111 [info] Extracting completed. pranaygp.vscode-css-peek
+2023-07-27 22:30:19.131 [info] Extension installed successfully: pranaygp.vscode-css-peek
+2023-07-27 22:30:19.228 [info] Marked extension as uninstalled pranaygp.vscode-css-peek-4.2.0
+2023-07-27 22:30:38.973 [info] [127.0.0.1][44c613af][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-27 22:30:39.106 [info] [127.0.0.1][890d0015][ExtensionHostConnection] <134> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,365 @@
+2023-07-27 22:29:15.697 [info] Extension host with pid 134 started
+2023-07-27 22:29:15.758 [info] Lock '/home/edujca/.vscode-server/data/User/workspaceStorage/dd6a54e69bea99895825a350612c4b94/vscode.lock': Lock acquired.
+2023-07-27 22:29:17.197 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-27 22:29:17.201 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-27 22:29:17.202 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-07-27 22:29:17.203 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2023-07-27 22:29:17.205 [info] ExtensionService#_doActivateExtension tungvn.wordpress-snippet, startup: true, activationEvent: '*'
+2023-07-27 22:29:20.477 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onLanguage:code-runner-output'
+2023-07-27 22:29:21.670 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-27 22:29:21.671 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-27 22:29:24.214 [info] Not activating extension 'pranaygp.vscode-css-peek': Timed out while searching for 'workspaceContains' pattern **/*.css,**/*.scss,**/*.sass,**/*.less
+2023-07-27 22:29:24.215 [info] Not activating extension 'zobo.php-intellisense': Timed out while searching for 'workspaceContains' pattern **/*.php
+2023-07-27 22:29:26.251 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-07-27 22:29:26.252 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-07-27 22:29:26.253 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-07-27 22:29:26.254 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-07-27 22:29:27.120 [warning] Using default string since no string found in i18n bundle that has the key: Log level: {0}
+2023-07-27 22:29:27.134 [warning] Using default string since no string found in i18n bundle that has the key: Validating found git in: "{0}"
+2023-07-27 22:29:27.253 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-27 22:29:27.254 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-27 22:29:27.256 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2023-07-27 22:29:27.257 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2023-07-27 22:29:27.259 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-07-27 22:29:27.976 [warning] Using default string since no string found in i18n bundle that has the key: GitHub
+2023-07-27 22:29:27.976 [warning] Using default string since no string found in i18n bundle that has the key: gist
+2023-07-27 22:29:28.147 [warning] Using default string since no string found in i18n bundle that has the key: Learn more about managing TypeScript versions
+2023-07-27 22:29:28.373 [warning] Using default string since no string found in i18n bundle that has the key: Configure
+2023-07-27 22:29:28.373 [warning] Using default string since no string found in i18n bundle that has the key: JSON Language Server
+2023-07-27 22:29:28.584 [warning] Using default string since no string found in i18n bundle that has the key: Using git "{0}" from "{1}"
+2023-07-27 22:29:28.691 [warning] Using default string since no string found in i18n bundle that has the key: Git History
+2023-07-27 22:29:28.735 [info] Eager extensions activated
+2023-07-27 22:29:29.546 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-spanish, startup: false, activationEvent: 'onStartupFinished'
+2023-07-27 22:29:29.594 [warning] Using default string since no string found in i18n bundle that has the key: JSON: Schema Resolution Error
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Disabled
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Always
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Smart
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: With Flag
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Disabled
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Always
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Smart
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Only With Flag
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach is disabled and not shown in status bar
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach to every Node.js process launched in the terminal
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach when running scripts that aren't in a node_modules folder
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Only auto attach when the `--inspect` flag is given
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Toggle auto attach in this workspace
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Toggle auto attach on this machine
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Temporarily disable auto attach in this session
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Re-enable auto attach
+2023-07-27 22:29:29.708 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Disabled
+2023-07-27 22:29:29.843 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2023-07-27 22:29:29.844 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2023-07-27 22:29:30.143 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-07-27 22:29:30.381 [warning] Using default string since no string found in i18n bundle that has the key: Unable to resolve schema. Click to retry.
+2023-07-27 22:29:30.383 [warning] Using default string since no string found in i18n bundle that has the key: JSON Validation Status
+2023-07-27 22:29:30.384 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2023-07-27 22:29:34.198 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2023-07-27 22:29:34.199 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2023-07-27 22:29:34.281 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2023-07-27 22:29:34.281 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2023-07-27 22:29:36.877 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2023-07-27 22:29:36.877 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2023-07-27 22:30:38.971 [info] Extension host terminating: received terminate message from renderer
+2023-07-27 22:30:38.972 [info] Lock '/home/edujca/.vscode-server/data/User/workspaceStorage/dd6a54e69bea99895825a350612c4b94/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-07-27 22:30:39.071 [error] Canceled: Canceled
+	at new u (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at Proxy.V.<computed>.M.charCodeAt.V.<computed> (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at setContext (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:205:24554)
+	at y._updateContextKeys (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:6166)
+	at onChanged (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4600)
+	at x.unregister (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4737)
+	at x.dispose (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:3462)
+	at y.dispose (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4287)
+	at T (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at d.t (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:28538)
+	at d.acceptFrame (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:28344)
+	at f.l (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:27009)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:24515
+	at Socket.t (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-07-27 22:30:39.072 [error] Canceled: Canceled
+	at new u (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at Proxy.V.<computed>.M.charCodeAt.V.<computed> (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at setContext (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:205:24554)
+	at y._updateContextKeys (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:6166)
+	at onChanged (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4600)
+	at x.unregister (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4737)
+	at x.dispose (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:3462)
+	at y.dispose (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4287)
+	at T (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at d.t (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:28538)
+	at d.acceptFrame (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:28344)
+	at f.l (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:27009)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:24515
+	at Socket.t (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-07-27 22:30:39.073 [error] Canceled: Canceled
+	at new u (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at Proxy.V.<computed>.M.charCodeAt.V.<computed> (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at setContext (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:205:24554)
+	at y._updateContextKeys (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:6166)
+	at onChanged (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4600)
+	at x.unregister (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4737)
+	at x.dispose (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:3462)
+	at y.dispose (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4287)
+	at T (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at d.t (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:28538)
+	at d.acceptFrame (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:28344)
+	at f.l (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:27009)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:24515
+	at Socket.t (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-07-27 22:30:39.074 [error] Canceled: Canceled
+	at new u (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at Proxy.V.<computed>.M.charCodeAt.V.<computed> (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at setContext (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:205:24554)
+	at y._updateContextKeys (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:6166)
+	at onChanged (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4600)
+	at x.unregister (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4737)
+	at x.dispose (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:3462)
+	at Object.dispose (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4836)
+	at T (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at d.t (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:28538)
+	at d.acceptFrame (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:28344)
+	at f.l (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:27009)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:24515
+	at Socket.t (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-07-27 22:30:39.075 [error] Canceled: Canceled
+	at new u (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at Proxy.V.<computed>.M.charCodeAt.V.<computed> (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at setContext (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:205:24554)
+	at y._updateContextKeys (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:6166)
+	at onChanged (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4600)
+	at x.unregister (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4737)
+	at x.dispose (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:3462)
+	at Object.dispose (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4836)
+	at T (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at d.t (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:28538)
+	at d.acceptFrame (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:28344)
+	at f.l (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:27009)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:24515
+	at Socket.t (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-07-27 22:30:39.075 [error] Canceled: Canceled
+	at new u (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+	at l.O (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+	at Proxy.V.<computed>.M.charCodeAt.V.<computed> (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+	at s.g (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:107430)
+	at s.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at w.registerCommand.description (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106099)
+	at s.h (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:108016)
+	at s.g (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106906)
+	at s.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:96:106806)
+	at Object.executeCommand (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:117:30778)
+	at setContext (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:205:24554)
+	at y._updateContextKeys (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:6166)
+	at onChanged (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4600)
+	at x.unregister (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4737)
+	at x.dispose (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:3462)
+	at Object.dispose (/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0/dist/gitlens.js:6:4836)
+	at T (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:10:12072)
+	at f.X (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:11242)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9037
+	at Array.map (<anonymous>)
+	at f.Q (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9024)
+	at f.terminate (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:108:9298)
+	at h.terminate (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:122:15761
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at p.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:14861)
+	at t.E (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:18927)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:16915
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at h.acceptChunk (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:12592)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:11879
+	at f.invoke (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+	at d.fire (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+	at d.t (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:28538)
+	at d.acceptFrame (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:28344)
+	at f.l (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:27009)
+	at /home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:24515
+	at Socket.t (/home/edujca/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/workbench/api/node/extensionHostProcess.js:72:22415)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-07-27 22:30:39.096 [info] Extension host with pid 134 exiting with code 0

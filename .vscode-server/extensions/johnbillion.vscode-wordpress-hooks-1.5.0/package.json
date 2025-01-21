@@ -1,0 +1,106 @@
+{
+	"name": "vscode-wordpress-hooks",
+	"displayName": "Hooks IntelliSense for WordPress",
+	"description": "IntelliSense and autocompletion for WordPress hooks, actions, and filters",
+	"version": "1.5.0",
+	"license": "GPL-3.0-or-later",
+	"publisher": "johnbillion",
+	"author": {
+		"name": "John Blackbourn"
+	},
+	"engines": {
+		"node": ">=16",
+		"vscode": "^1.39.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"keywords": [
+		"wordpress",
+		"php",
+		"autocomplete",
+		"intellisense",
+		"hooks",
+		"actions",
+		"filters"
+	],
+	"sponsor": {
+		"url": "https://github.com/sponsors/johnbillion"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/wp-hooks/vscode-wordpress-hooks.git"
+	},
+	"bugs": {
+		"url": "https://github.com/wp-hooks/vscode-wordpress-hooks/issues"
+	},
+	"activationEvents": [
+		"onLanguage:php"
+	],
+	"contributes": {
+		"configuration": [
+			{
+				"title": "Hooks IntelliSense for WordPress",
+				"properties": {
+					"vscode-wordpress-hooks.docBlocks.enable": {
+						"type": "boolean",
+						"default": true,
+						"description": "Add docblocks to autocompleted callback functions"
+					},
+					"vscode-wordpress-hooks.typeDeclarations.enable": {
+						"type": "boolean",
+						"default": true,
+						"description": "Add type declarations (also known as type hints) to autocompleted callback functions"
+					}
+				}
+			}
+		]
+	},
+	"galleryBanner": {
+		"color": "#0073aa",
+		"theme": "dark"
+	},
+	"icon": "images/icon.png",
+	"main": "./out/extension.js",
+	"extensionKind": [
+		"workspace",
+		"ui"
+	],
+	"scripts": {
+		"lint": "eslint -c .eslintrc.json --ext .ts src",
+		"deploy-vsce": "vsce publish",
+		"deploy-openvsx": "ovsx publish",
+		"vscode:prepublish": "npm run build",
+		"watch": "tsc --watch",
+		"build": "tsc"
+	},
+	"devDependencies": {
+		"@types/node": "^18",
+		"@types/vscode": "^1",
+		"@typescript-eslint/eslint-plugin": "^5",
+		"@typescript-eslint/parser": "^5",
+		"eslint": "^8",
+		"eslint-config-airbnb-base": "^15",
+		"eslint-plugin-import": "^2",
+		"ovsx": "^0.8.0",
+		"typescript": "^5",
+		"vsce": "^2"
+	},
+	"dependencies": {
+		"@wp-hooks/wordpress-core": "^1.9.0"
+	},
+	"__metadata": {
+		"id": "bd3a577b-547f-4b5c-826a-9be782edabe8",
+		"publisherId": "cbb5f6e7-45a8-4586-bd04-c81a92bcf7d7",
+		"publisherDisplayName": "johnbillion",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1737481589234,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 3573482
+	}
+}

@@ -1,0 +1,23 @@
+2025-01-21 19:38:06.375 [info] Extension host with pid 1609 started
+2025-01-21 19:38:06.685 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-21 19:38:06.696 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-01-21 19:38:07.731 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-21 19:38:07.732 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-01-21 19:38:07.733 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2025-01-21 19:38:07.734 [info] ExtensionService#_doActivateExtension tungvn.wordpress-snippet, startup: true, activationEvent: '*'
+2025-01-21 19:38:07.856 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-21 19:38:07.860 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-21 19:38:08.378 [info] Eager extensions activated
+2025-01-21 19:38:08.379 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 19:38:08.389 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 19:38:08.391 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 19:38:08.392 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 19:38:08.393 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 19:38:08.394 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 19:38:10.053 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-spanish, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 19:38:10.856 [error] Error: Domain is required for 'cloud-github-enterprise' integration
+	at IntegrationService.get (/home/edujca/.vscode-server/extensions/eamodio.gitlens-16.2.0/dist/gitlens.js:1457:23793)
+	at LaunchpadProvider.hasConnectedIntegration (/home/edujca/.vscode-server/extensions/eamodio.gitlens-16.2.0/dist/gitlens.js:1467:14657)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async LaunchpadIndicator.maybeLoadData (/home/edujca/.vscode-server/extensions/eamodio.gitlens-16.2.0/dist/gitlens.js:1457:52771)
+	at async LaunchpadIndicator.onReady (/home/edujca/.vscode-server/extensions/eamodio.gitlens-16.2.0/dist/gitlens.js:1457:53428)

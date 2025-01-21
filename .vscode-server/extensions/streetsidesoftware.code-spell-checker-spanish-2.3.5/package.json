@@ -1,0 +1,93 @@
+{
+	"name": "code-spell-checker-spanish",
+	"displayName": "Spanish - Code Spell Checker",
+	"description": "Spanish Add-On for Code Spell Checker",
+	"icon": "images/SpellCheck.png",
+	"version": "2.3.5",
+	"private": true,
+	"publisher": "streetsidesoftware",
+	"type": "commonjs",
+	"engines": {
+		"vscode": "^1.67.0"
+	},
+	"sponsor": {
+		"url": "https://github.com/sponsors/streetsidesoftware"
+	},
+	"extensionKind": [
+		"workspace"
+	],
+	"categories": [
+		"Linters",
+		"Other"
+	],
+	"activationEvents": [
+		"onStartupFinished"
+	],
+	"qna": "marketplace",
+	"main": "./out/extension.js",
+	"capabilities": {
+		"virtualWorkspaces": true,
+		"untrustedWorkspaces": {
+			"supported": true
+		}
+	},
+	"contributes": {
+		"commands": [
+			{
+				"command": "cSpell.enableSpanish",
+				"title": "Enable Spanish Spell Checker Dictionary"
+			},
+			{
+				"command": "cSpell.disableSpanish",
+				"title": "Disable Spanish Spell Checker Dictionary"
+			},
+			{
+				"command": "cSpell.enableSpanishWorkspace",
+				"title": "Enable Spanish Spell Checker Dictionary in Workspace"
+			},
+			{
+				"command": "cSpell.disableSpanishWorkspace",
+				"title": "Disable Spanish Spell Checker Dictionary in Workspace"
+			}
+		]
+	},
+	"extensionDependencies": [
+		"streetsidesoftware.code-spell-checker"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/streetsidesoftware/vscode-cspell-dict-extensions"
+	},
+	"bugs": {
+		"url": "https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/issues"
+	},
+	"scripts": {
+		"clean": "rimraf out",
+		"clean-build": "npm run clean && npm run build",
+		"publish-extension": "vsce publish",
+		"pack-extension": "vsce package",
+		"vscode:prepublish": "npm run build",
+		"build": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"test:cspell": "cspell -c cspell-ext.json samples",
+		"test:vscode": "node ../../test-runner/bin.mjs . --sample samples/seattle.md",
+		"test": "npm run test:cspell && npm run test:vscode"
+	},
+	"dependencies": {
+		"@cspell/dict-es-es": "^3.0.3"
+	},
+	"__metadata": {
+		"id": "8d6dcf6f-1957-4dd5-809e-addb07d8c1fb",
+		"publisherId": "67600ca7-88fb-4104-9f7e-dd51c00facf2",
+		"publisherDisplayName": "Street Side Software",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1737481589498,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 504653
+	}
+}

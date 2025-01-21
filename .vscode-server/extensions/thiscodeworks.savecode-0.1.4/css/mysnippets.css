@@ -1,0 +1,188 @@
+body {
+  background: #0f2433;
+  color: #fff; }
+
+h1, pre, xmp {
+  font-family: Menlo,Bitstream Vera Sans Mono,DejaVu Sans Mono,Monaco,Consolas,monospace; }
+
+.menu {
+  margin: 30px 40px 20px;
+  display: flex;
+  justify-content: space-between; }
+  .menu #refresh {
+    background-color: #4fc1e9;
+    color: #fff;
+    margin-right: 10px; }
+    .menu #refresh:hover {
+      background-color: #656d78; }
+  .menu input {
+    padding: 5px 10px;
+    border-radius: 5px; }
+    .menu input:focus {
+      outline: 1px solid #4fc1e9;
+      border-radius: 5px; }
+  .menu .button {
+    background-color: lightgrey;
+    color: #222;
+    border-radius: 5px;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    border: none;
+    text-decoration: none; }
+    .menu .button:focus {
+      outline: none; }
+    .menu .button:hover {
+      background-color: darkgrey; }
+
+#title {
+  margin: 0 40px; }
+
+a {
+  color: #039be5; }
+  a:hover {
+    color: #FF4081; }
+
+.gridview ul {
+  column-count: 3;
+  column-gap: 1em; }
+
+.gridview li {
+  list-style-type: none;
+  break-inside: avoid-column; }
+
+.gridview .card {
+  border-radius: 12px;
+  border: 1px solid darkgrey;
+  margin-bottom: 30px;
+  padding: 0; }
+  .gridview .card .titlecontent {
+    padding: 15px 10px;
+    border-bottom: 1px solid darkgrey; }
+  .gridview .card .buttons {
+    padding-top: 7px; }
+  .gridview .card .title:hover {
+    color: #fff;
+    cursor: default; }
+  .gridview .card .code {
+    border-radius: 0 0 12px 12px;
+    display: block;
+    margin: 0;
+    background: #2f4350;
+    font-size: 12px;
+    padding: 10px 7.5px; }
+    .gridview .card .code xmp {
+      white-space: pre-wrap;
+      word-wrap: break-word; }
+      .gridview .card .code xmp .str {
+        color: #ffce54; }
+      .gridview .card .code xmp .kwd {
+        color: #4fc1e9; }
+      .gridview .card .code xmp .com {
+        color: #656d78; }
+      .gridview .card .code xmp .typ {
+        color: #4fc1e9; }
+      .gridview .card .code xmp .lit {
+        color: #ac92ec; }
+      .gridview .card .code xmp .pun {
+        color: #e6e9ed; }
+      .gridview .card .code xmp .opn {
+        color: #e6e9ed; }
+      .gridview .card .code xmp .clo {
+        color: #e6e9ed; }
+      .gridview .card .code xmp .tag {
+        color: #4db6ac; }
+      .gridview .card .code xmp .atn {
+        color: #a0d468; }
+      .gridview .card .code xmp .atv {
+        color: #ffce54; }
+      .gridview .card .code xmp .dec {
+        color: #ac92ec; }
+      .gridview .card .code xmp .var {
+        color: #e6e9ed; }
+      .gridview .card .code xmp .fun {
+        color: #e6e9ed; }
+
+.listview ul {
+  padding: 0;
+  list-style-type: none; }
+  .listview ul li {
+    padding: 15px 5px;
+    border-bottom: 1px solid lightgrey;
+    border-right: 15px solid transparent;
+    border-left: 15px solid transparent; }
+    .listview ul li .buttons {
+      display: none; }
+    .listview ul li pre {
+      border-radius: 12px;
+      background-color: #2f4350;
+      padding: 10px 15px;
+      display: none; }
+      .listview ul li pre xmp {
+        white-space: pre-wrap;
+        word-wrap: break-word; }
+        .listview ul li pre xmp .str {
+          color: #ffce54; }
+        .listview ul li pre xmp .kwd {
+          color: #4fc1e9; }
+        .listview ul li pre xmp .com {
+          color: #656d78; }
+        .listview ul li pre xmp .typ {
+          color: #4fc1e9; }
+        .listview ul li pre xmp .lit {
+          color: #ac92ec; }
+        .listview ul li pre xmp .pun {
+          color: #e6e9ed; }
+        .listview ul li pre xmp .opn {
+          color: #e6e9ed; }
+        .listview ul li pre xmp .clo {
+          color: #e6e9ed; }
+        .listview ul li pre xmp .tag {
+          color: #4db6ac; }
+        .listview ul li pre xmp .atn {
+          color: #a0d468; }
+        .listview ul li pre xmp .atv {
+          color: #ffce54; }
+        .listview ul li pre xmp .dec {
+          color: #ac92ec; }
+        .listview ul li pre xmp .var {
+          color: #e6e9ed; }
+        .listview ul li pre xmp .fun {
+          color: #e6e9ed; }
+
+.hide {
+  display: none; }
+
+.title {
+  color: white;
+  text-decoration: none;
+  text-transform: capitalize;
+  display: block;
+  min-height: 21px;
+  font-size: 18px; }
+  .title:focus {
+    outline: none; }
+
+.tag {
+  font-size: 11px;
+  padding-top: 4px;
+  color: #8899a6;
+  text-transform: lowercase; }
+
+@media screen and (min-width: 1200px) {
+  .gridview ul {
+    column-count: 4; } }
+
+@media screen and (max-width: 815px) {
+  .gridview ul {
+    column-count: 2; }
+  .menu .leftbtns a {
+    display: block;
+    width: fit-content; } }
+
+@media screen and (max-width: 500px) {
+  .gridview ul {
+    column-count: 1; }
+  .menu {
+    display: block; }
+    .menu div {
+      margin-top: 10px; } }

@@ -1,0 +1,24 @@
+2025-01-21 19:38:02.861 [info] 
+
+
+
+
+2025-01-21 19:38:02.861 [info] Extension host agent started.
+2025-01-21 19:38:03.150 [info] Deleted uninstalled extension from disk bmewburn.vscode-intelephense-client /home/edujca/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.9.5
+2025-01-21 19:38:03.151 [info] Deleted uninstalled extension from disk christian-kohler.path-intellisense /home/edujca/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.4
+2025-01-21 19:38:03.152 [info] Deleted uninstalled extension from disk eamodio.gitlens /home/edujca/.vscode-server/extensions/eamodio.gitlens-13.5.0
+2025-01-21 19:38:03.152 [info] Deleted uninstalled extension from disk devsense.composer-php-vscode /home/edujca/.vscode-server/extensions/devsense.composer-php-vscode-1.36.13417
+2025-01-21 19:38:03.153 [info] Deleted uninstalled extension from disk devsense.phptools-vscode /home/edujca/.vscode-server/extensions/devsense.phptools-vscode-1.33.12934-linux-x64
+2025-01-21 19:38:03.154 [info] Deleted uninstalled extension from disk johnbillion.vscode-wordpress-hooks /home/edujca/.vscode-server/extensions/johnbillion.vscode-wordpress-hooks-1.1.0
+2025-01-21 19:38:03.155 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-es /home/edujca/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.75.2023021509
+2025-01-21 19:38:03.157 [info] Deleted uninstalled extension from disk devsense.profiler-php-vscode /home/edujca/.vscode-server/extensions/devsense.profiler-php-vscode-1.36.13417
+2025-01-21 19:38:03.158 [info] Deleted uninstalled extension from disk esbenp.prettier-vscode /home/edujca/.vscode-server/extensions/esbenp.prettier-vscode-9.19.0
+2025-01-21 19:38:03.159 [info] Deleted uninstalled extension from disk formulahendry.code-runner /home/edujca/.vscode-server/extensions/formulahendry.code-runner-0.12.0
+2025-01-21 19:38:03.160 [info] Deleted uninstalled extension from disk ms-vscode.vscode-typescript-next /home/edujca/.vscode-server/extensions/ms-vscode.vscode-typescript-next-5.2.20230726
+2025-01-21 19:38:03.160 [info] Deleted uninstalled extension from disk zobo.php-intellisense /home/edujca/.vscode-server/extensions/zobo.php-intellisense-1.2.0
+2025-01-21 19:38:03.162 [info] Deleted uninstalled extension from disk streetsidesoftware.code-spell-checker /home/edujca/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.20.3
+2025-01-21 19:38:03.163 [info] Deleted uninstalled extension from disk streetsidesoftware.code-spell-checker-spanish /home/edujca/.vscode-server/extensions/streetsidesoftware.code-spell-checker-spanish-2.2.0
+2025-01-21 19:38:03.163 [info] Deleted uninstalled extension from disk xdebug.php-debug /home/edujca/.vscode-server/extensions/xdebug.php-debug-1.33.0
+2025-01-21 19:38:03.204 [info] [127.0.0.1][c90f099a][ManagementConnection] New connection established.
+2025-01-21 19:38:03.554 [info] [127.0.0.1][130b0514][ExtensionHostConnection] New connection established.
+2025-01-21 19:38:03.576 [info] [127.0.0.1][130b0514][ExtensionHostConnection] <1609> Launched Extension Host Process.

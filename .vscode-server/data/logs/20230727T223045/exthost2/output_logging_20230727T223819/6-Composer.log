@@ -1,0 +1,14 @@
+Creating folder '/home/edujca/.config/composer' for 'composer.phar' installation.
+This can be customized using the 'COMPOSER_HOME' environment variable.
+Downloading composer.phar ...
+  URL: https://getcomposer.org/composer.phar
+  Downloading (2771kB):.......................OK.
+  Error writing file '/home/edujca/.config/composer/latest.phar': ENOENT: no such file or directory, open '/home/edujca/.config/composer/latest.phar'
+Downloading composer.phar ...
+  URL: https://getcomposer.org/composer.phar
+  Downloading (2771kB):.......................OK.
+  Error writing file '/home/edujca/.config/composer/latest.phar': ENOENT: no such file or directory, open '/home/edujca/.config/composer/latest.phar'
+Downloading composer.phar ...
+  URL: https://getcomposer.org/composer.phar
+  Downloading (2771kB):.......................OK.
+  Error writing file '/home/edujca/.config/composer/latest.phar': ENOENT: no such file or directory, open '/home/edujca/.config/composer/latest.phar'

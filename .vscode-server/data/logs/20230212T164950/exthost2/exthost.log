@@ -1,0 +1,23 @@
+[2023-02-12 16:52:21.323] [exthost] [info] Extension host with pid 303 started
+[2023-02-12 16:52:21.369] [exthost] [info] Lock '/home/edujca/.vscode-server/data/User/workspaceStorage/dd6a54e69bea99895825a350612c4b94/vscode.lock': Lock acquired.
+[2023-02-12 16:52:21.588] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-02-12 16:52:21.589] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-02-12 16:52:21.590] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-02-12 16:52:21.590] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2023-02-12 16:52:21.590] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2023-02-12 16:52:21.591] [exthost] [info] ExtensionService#_doActivateExtension tungvn.wordpress-snippet, startup: true, activationEvent: '*'
+[2023-02-12 16:52:21.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-02-12 16:52:21.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-02-12 16:52:22.061] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-12 16:52:22.062] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-12 16:52:22.064] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-12 16:52:22.065] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2023-02-12 16:52:22.066] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-12 16:52:22.075] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-12 16:52:22.076] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-12 16:52:22.077] [exthost] [info] Eager extensions activated
+[2023-02-12 16:52:22.930] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-12 16:52:23.189] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-spanish, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-12 16:53:09.513] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2023-02-12 16:53:09.514] [exthost] [info] Lock '/home/edujca/.vscode-server/data/User/workspaceStorage/dd6a54e69bea99895825a350612c4b94/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2023-02-12 16:53:09.590] [exthost] [info] Extension host with pid 303 exiting with code 0

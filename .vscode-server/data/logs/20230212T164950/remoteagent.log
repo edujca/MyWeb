@@ -1,0 +1,154 @@
+[2023-02-12 16:49:50.508] [remoteagent] [info] Extension host agent started.
+[2023-02-12 16:49:51.029] [remoteagent] [info] [127.0.0.1][1eb229fb][ManagementConnection] New connection established.
+[2023-02-12 16:49:51.515] [remoteagent] [info] [127.0.0.1][e0cb770a][ExtensionHostConnection] New connection established.
+[2023-02-12 16:49:51.532] [remoteagent] [info] [127.0.0.1][e0cb770a][ExtensionHostConnection] <174> Launched Extension Host Process.
+[2023-02-12 16:50:57.410] [remoteagent] [info] Getting Manifest... formulahendry.code-runner
+[2023-02-12 16:50:57.508] [remoteagent] [info] Installing extension: formulahendry.code-runner
+[2023-02-12 16:50:58.157] [remoteagent] [info] Downloaded extension: formulahendry.code-runner /home/edujca/.vscode-server/data/CachedExtensionVSIXs/formulahendry.code-runner-0.12.0
+[2023-02-12 16:50:58.524] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.67a930d8-618d-434d-aa64-0911a1b5c9fb: formulahendry.code-runner
+[2023-02-12 16:50:58.531] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/formulahendry.code-runner-0.12.0
+[2023-02-12 16:50:58.535] [remoteagent] [info] Extracting completed. formulahendry.code-runner
+[2023-02-12 16:50:58.537] [remoteagent] [info] Extension installed successfully: formulahendry.code-runner
+[2023-02-12 16:51:01.558] [remoteagent] [info] Getting Manifest... streetsidesoftware.code-spell-checker
+[2023-02-12 16:51:01.674] [remoteagent] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2023-02-12 16:51:02.419] [remoteagent] [info] Downloaded extension: streetsidesoftware.code-spell-checker /home/edujca/.vscode-server/data/CachedExtensionVSIXs/streetsidesoftware.code-spell-checker-2.16.0
+[2023-02-12 16:51:02.760] [remoteagent] [info] Getting Manifest... pranaygp.vscode-css-peek
+[2023-02-12 16:51:02.919] [remoteagent] [info] Installing extension: pranaygp.vscode-css-peek
+[2023-02-12 16:51:03.371] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.b62acfbb-0ab5-458e-93f2-ebe3f6591ff9: streetsidesoftware.code-spell-checker
+[2023-02-12 16:51:03.379] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.16.0
+[2023-02-12 16:51:03.382] [remoteagent] [info] Extracting completed. streetsidesoftware.code-spell-checker
+[2023-02-12 16:51:03.383] [remoteagent] [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+[2023-02-12 16:51:03.808] [remoteagent] [info] Downloaded extension: pranaygp.vscode-css-peek /home/edujca/.vscode-server/data/CachedExtensionVSIXs/pranaygp.vscode-css-peek-4.2.0
+[2023-02-12 16:51:04.056] [remoteagent] [info] Getting Manifest... deibit.devdocs
+[2023-02-12 16:51:04.225] [remoteagent] [info] Installing extension: deibit.devdocs
+[2023-02-12 16:51:04.806] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.ccb8c330-363b-46df-bb1d-b115d97c370a: pranaygp.vscode-css-peek
+[2023-02-12 16:51:04.813] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/pranaygp.vscode-css-peek-4.2.0
+[2023-02-12 16:51:04.816] [remoteagent] [info] Extracting completed. pranaygp.vscode-css-peek
+[2023-02-12 16:51:04.817] [remoteagent] [info] Extension installed successfully: pranaygp.vscode-css-peek
+[2023-02-12 16:51:05.104] [remoteagent] [info] Downloaded extension: deibit.devdocs /home/edujca/.vscode-server/data/CachedExtensionVSIXs/deibit.devdocs-0.2.0
+[2023-02-12 16:51:05.151] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.314e0b3e-3603-45ad-b034-c9879daa217d: deibit.devdocs
+[2023-02-12 16:51:05.162] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/deibit.devdocs-0.2.0
+[2023-02-12 16:51:05.165] [remoteagent] [info] Extracting completed. deibit.devdocs
+[2023-02-12 16:51:05.167] [remoteagent] [info] Extension installed successfully: deibit.devdocs
+[2023-02-12 16:51:06.887] [remoteagent] [info] Getting Manifest... eamodio.gitlens
+[2023-02-12 16:51:07.030] [remoteagent] [info] Installing extension: eamodio.gitlens
+[2023-02-12 16:51:07.563] [remoteagent] [info] Getting Manifest... oderwat.indent-rainbow
+[2023-02-12 16:51:07.729] [remoteagent] [info] Installing extension: oderwat.indent-rainbow
+[2023-02-12 16:51:08.088] [remoteagent] [info] Downloaded extension: eamodio.gitlens /home/edujca/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-13.2.0
+[2023-02-12 16:51:08.187] [remoteagent] [info] Getting Manifest... ms-vscode.vscode-typescript-next
+[2023-02-12 16:51:08.410] [remoteagent] [info] Installing extension: ms-vscode.vscode-typescript-next
+[2023-02-12 16:51:08.778] [remoteagent] [info] Downloaded extension: oderwat.indent-rainbow /home/edujca/.vscode-server/data/CachedExtensionVSIXs/oderwat.indent-rainbow-8.3.1
+[2023-02-12 16:51:09.405] [remoteagent] [info] Downloaded extension: ms-vscode.vscode-typescript-next /home/edujca/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.vscode-typescript-next-5.0.202302100
+[2023-02-12 16:51:09.663] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.6282e305-c329-42d8-8d4e-d206f19a1f9b: eamodio.gitlens
+[2023-02-12 16:51:09.678] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/eamodio.gitlens-13.2.0
+[2023-02-12 16:51:09.686] [remoteagent] [info] Extracting completed. eamodio.gitlens
+[2023-02-12 16:51:09.687] [remoteagent] [info] Extension installed successfully: eamodio.gitlens
+[2023-02-12 16:51:11.375] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.c4c4f7de-fde5-4dba-8dce-f9832989581a: ms-vscode.vscode-typescript-next
+[2023-02-12 16:51:11.386] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/ms-vscode.vscode-typescript-next-5.0.202302100
+[2023-02-12 16:51:11.390] [remoteagent] [info] Extracting completed. ms-vscode.vscode-typescript-next
+[2023-02-12 16:51:11.392] [remoteagent] [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+[2023-02-12 16:51:12.681] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.46ae6d38-8921-4643-8de8-aeb54afcc09e: oderwat.indent-rainbow
+[2023-02-12 16:51:12.689] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/oderwat.indent-rainbow-8.3.1
+[2023-02-12 16:51:12.692] [remoteagent] [info] Extracting completed. oderwat.indent-rainbow
+[2023-02-12 16:51:12.693] [remoteagent] [info] Extension installed successfully: oderwat.indent-rainbow
+[2023-02-12 16:51:14.463] [remoteagent] [info] Getting Manifest... brapifra.phpserver
+[2023-02-12 16:51:14.541] [remoteagent] [info] Installing extension: brapifra.phpserver
+[2023-02-12 16:51:15.349] [remoteagent] [info] Downloaded extension: brapifra.phpserver /home/edujca/.vscode-server/data/CachedExtensionVSIXs/brapifra.phpserver-3.0.2
+[2023-02-12 16:51:15.684] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.6e4f0a34-ad78-484b-a7b7-deadacb60397: brapifra.phpserver
+[2023-02-12 16:51:15.691] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/brapifra.phpserver-3.0.2
+[2023-02-12 16:51:15.693] [remoteagent] [info] Extracting completed. brapifra.phpserver
+[2023-02-12 16:51:15.693] [remoteagent] [info] Extension installed successfully: brapifra.phpserver
+[2023-02-12 16:51:22.473] [remoteagent] [info] Getting Manifest... tungvn.wordpress-snippet
+[2023-02-12 16:51:22.636] [remoteagent] [info] Installing extension: tungvn.wordpress-snippet
+[2023-02-12 16:51:23.341] [remoteagent] [info] Downloaded extension: tungvn.wordpress-snippet /home/edujca/.vscode-server/data/CachedExtensionVSIXs/tungvn.wordpress-snippet-1.1.5
+[2023-02-12 16:51:23.376] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.69b6f232-e39c-47ba-9d72-71281ebe711b: tungvn.wordpress-snippet
+[2023-02-12 16:51:23.382] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/tungvn.wordpress-snippet-1.1.5
+[2023-02-12 16:51:23.384] [remoteagent] [info] Extracting completed. tungvn.wordpress-snippet
+[2023-02-12 16:51:23.385] [remoteagent] [info] Extension installed successfully: tungvn.wordpress-snippet
+[2023-02-12 16:51:23.980] [remoteagent] [info] Getting Manifest... streetsidesoftware.code-spell-checker-spanish
+[2023-02-12 16:51:24.037] [remoteagent] [info] Installing extension: streetsidesoftware.code-spell-checker-spanish
+[2023-02-12 16:51:24.376] [remoteagent] [info] Getting Manifest... streetsidesoftware.code-spell-checker
+[2023-02-12 16:51:24.960] [remoteagent] [info] Downloaded extension: streetsidesoftware.code-spell-checker-spanish /home/edujca/.vscode-server/data/CachedExtensionVSIXs/streetsidesoftware.code-spell-checker-spanish-2.1.6
+[2023-02-12 16:51:25.000] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.a0b79f50-055a-4c3b-b6b4-7b3c73a3422b: streetsidesoftware.code-spell-checker-spanish
+[2023-02-12 16:51:25.005] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/streetsidesoftware.code-spell-checker-spanish-2.1.6
+[2023-02-12 16:51:25.006] [remoteagent] [info] Extracting completed. streetsidesoftware.code-spell-checker-spanish
+[2023-02-12 16:51:25.007] [remoteagent] [info] Extension installed successfully: streetsidesoftware.code-spell-checker-spanish
+[2023-02-12 16:51:28.921] [remoteagent] [info] Getting Manifest... thiscodeworks.savecode
+[2023-02-12 16:51:29.018] [remoteagent] [info] Installing extension: thiscodeworks.savecode
+[2023-02-12 16:51:29.941] [remoteagent] [info] Downloaded extension: thiscodeworks.savecode /home/edujca/.vscode-server/data/CachedExtensionVSIXs/thiscodeworks.savecode-0.1.4
+[2023-02-12 16:51:32.459] [remoteagent] [info] Getting Manifest... esbenp.prettier-vscode
+[2023-02-12 16:51:32.517] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2023-02-12 16:51:33.378] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode /home/edujca/.vscode-server/data/CachedExtensionVSIXs/esbenp.prettier-vscode-9.10.4
+[2023-02-12 16:51:33.641] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.20d50b88-8481-4956-8514-eb9b34a857e5: esbenp.prettier-vscode
+[2023-02-12 16:51:33.648] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/esbenp.prettier-vscode-9.10.4
+[2023-02-12 16:51:33.653] [remoteagent] [info] Extracting completed. esbenp.prettier-vscode
+[2023-02-12 16:51:33.654] [remoteagent] [info] Extension installed successfully: esbenp.prettier-vscode
+[2023-02-12 16:51:35.291] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.188d9691-9476-45e6-adb4-69ee33498b32: thiscodeworks.savecode
+[2023-02-12 16:51:35.299] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/thiscodeworks.savecode-0.1.4
+[2023-02-12 16:51:35.300] [remoteagent] [info] Extracting completed. thiscodeworks.savecode
+[2023-02-12 16:51:35.301] [remoteagent] [info] Extension installed successfully: thiscodeworks.savecode
+[2023-02-12 16:51:42.072] [remoteagent] [info] Getting Manifest... ritwickdey.liveserver
+[2023-02-12 16:51:42.148] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2023-02-12 16:51:43.040] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/edujca/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.9
+[2023-02-12 16:51:43.444] [remoteagent] [info] Getting Manifest... christian-kohler.path-intellisense
+[2023-02-12 16:51:43.531] [remoteagent] [info] Installing extension: christian-kohler.path-intellisense
+[2023-02-12 16:51:44.340] [remoteagent] [info] Downloaded extension: christian-kohler.path-intellisense /home/edujca/.vscode-server/data/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.8.4
+[2023-02-12 16:51:44.570] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.0c9f66be-9816-4220-8284-1546f542b23d: christian-kohler.path-intellisense
+[2023-02-12 16:51:44.583] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.4
+[2023-02-12 16:51:44.588] [remoteagent] [info] Extracting completed. christian-kohler.path-intellisense
+[2023-02-12 16:51:44.589] [remoteagent] [info] Extension installed successfully: christian-kohler.path-intellisense
+[2023-02-12 16:51:49.522] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.f832fe57-1650-4849-9727-669dbbf1dc15: ritwickdey.liveserver
+[2023-02-12 16:51:49.533] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+[2023-02-12 16:51:49.536] [remoteagent] [info] Extracting completed. ritwickdey.liveserver
+[2023-02-12 16:51:49.538] [remoteagent] [info] Extension installed successfully: ritwickdey.liveserver
+[2023-02-12 16:52:03.147] [remoteagent] [info] Getting Manifest... johnbillion.vscode-wordpress-hooks
+[2023-02-12 16:52:03.240] [remoteagent] [info] Installing extension: johnbillion.vscode-wordpress-hooks
+[2023-02-12 16:52:04.040] [remoteagent] [info] Downloaded extension: johnbillion.vscode-wordpress-hooks /home/edujca/.vscode-server/data/CachedExtensionVSIXs/johnbillion.vscode-wordpress-hooks-1.1.0
+[2023-02-12 16:52:04.209] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.4e46c96a-6627-4058-a34a-4498f483ed35: johnbillion.vscode-wordpress-hooks
+[2023-02-12 16:52:04.215] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/johnbillion.vscode-wordpress-hooks-1.1.0
+[2023-02-12 16:52:04.218] [remoteagent] [info] Extracting completed. johnbillion.vscode-wordpress-hooks
+[2023-02-12 16:52:04.219] [remoteagent] [info] Extension installed successfully: johnbillion.vscode-wordpress-hooks
+[2023-02-12 16:52:05.017] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+[2023-02-12 16:52:05.104] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2023-02-12 16:52:05.822] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es /home/edujca/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-es-1.72.10121011
+[2023-02-12 16:52:05.993] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.458946f0-c5f3-4716-99ce-66bcaa691585: ms-ceintl.vscode-language-pack-es
+[2023-02-12 16:52:05.997] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.72.10121011
+[2023-02-12 16:52:05.999] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+[2023-02-12 16:52:06.000] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2023-02-12 16:52:06.095] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+[2023-02-12 16:52:13.583] [remoteagent] [info] [127.0.0.1][1eb229fb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-02-12 16:52:13.676] [remoteagent] [info] [127.0.0.1][e0cb770a][ExtensionHostConnection] <174> Extension Host Process exited with code: 0, signal: null.
+[2023-02-12 16:52:17.152] [remoteagent] [info] [127.0.0.1][9771ad84][ManagementConnection] New connection established.
+[2023-02-12 16:52:17.901] [remoteagent] [info] [127.0.0.1][be447618][ExtensionHostConnection] New connection established.
+[2023-02-12 16:52:17.911] [remoteagent] [info] [127.0.0.1][be447618][ExtensionHostConnection] <303> Launched Extension Host Process.
+[2023-02-12 16:52:43.160] [remoteagent] [info] Getting Manifest... xdebug.php-debug
+[2023-02-12 16:52:43.276] [remoteagent] [info] Installing extension: xdebug.php-debug
+[2023-02-12 16:52:44.216] [remoteagent] [info] Downloaded extension: xdebug.php-debug /home/edujca/.vscode-server/data/CachedExtensionVSIXs/xdebug.php-debug-1.31.0
+[2023-02-12 16:52:45.391] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.119252a1-7304-4e78-925a-3f6e92f9e9cb: xdebug.php-debug
+[2023-02-12 16:52:45.399] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/xdebug.php-debug-1.31.0
+[2023-02-12 16:52:45.402] [remoteagent] [info] Extracting completed. xdebug.php-debug
+[2023-02-12 16:52:45.403] [remoteagent] [info] Extension installed successfully: xdebug.php-debug
+[2023-02-12 16:52:45.973] [remoteagent] [info] Getting Manifest... xdebug.php-pack
+[2023-02-12 16:52:46.037] [remoteagent] [info] Installing extension: xdebug.php-pack
+[2023-02-12 16:52:46.398] [remoteagent] [info] Getting Manifest... xdebug.php-debug
+[2023-02-12 16:52:46.447] [remoteagent] [info] Getting Manifest... zobo.php-intellisense
+[2023-02-12 16:52:46.595] [remoteagent] [info] Installing extension: zobo.php-intellisense xdebug.php-pack
+[2023-02-12 16:52:46.656] [remoteagent] [info] Getting Manifest... bmewburn.vscode-intelephense-client
+[2023-02-12 16:52:46.735] [remoteagent] [info] Installing extension: bmewburn.vscode-intelephense-client
+[2023-02-12 16:52:47.416] [remoteagent] [info] Downloaded extension: zobo.php-intellisense /home/edujca/.vscode-server/data/CachedExtensionVSIXs/zobo.php-intellisense-1.0.13
+[2023-02-12 16:52:47.626] [remoteagent] [info] Downloaded extension: bmewburn.vscode-intelephense-client /home/edujca/.vscode-server/data/CachedExtensionVSIXs/bmewburn.vscode-intelephense-client-1.9.5
+[2023-02-12 16:52:49.098] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.61b44081-064d-4021-98d8-692cf7901325: bmewburn.vscode-intelephense-client
+[2023-02-12 16:52:49.107] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.9.5
+[2023-02-12 16:52:49.112] [remoteagent] [info] Extracting completed. bmewburn.vscode-intelephense-client
+[2023-02-12 16:52:49.113] [remoteagent] [info] Extension installed successfully: bmewburn.vscode-intelephense-client
+[2023-02-12 16:52:53.682] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.1280dc28-2ccf-4543-a167-7139353f59ef: zobo.php-intellisense
+[2023-02-12 16:52:53.694] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/zobo.php-intellisense-1.0.13
+[2023-02-12 16:52:53.696] [remoteagent] [info] Extracting completed. zobo.php-intellisense
+[2023-02-12 16:52:54.123] [remoteagent] [info] Downloaded extension: xdebug.php-pack /home/edujca/.vscode-server/data/CachedExtensionVSIXs/xdebug.php-pack-1.0.3
+[2023-02-12 16:52:54.139] [remoteagent] [info] Extracted extension to /home/edujca/.vscode-server/extensions/.a184a790-78ce-43c3-9b19-c12360050276: xdebug.php-pack
+[2023-02-12 16:52:54.145] [remoteagent] [info] Renamed to /home/edujca/.vscode-server/extensions/xdebug.php-pack-1.0.3
+[2023-02-12 16:52:54.147] [remoteagent] [info] Extracting completed. xdebug.php-pack
+[2023-02-12 16:52:54.147] [remoteagent] [info] Extension installed successfully: zobo.php-intellisense
+[2023-02-12 16:52:54.147] [remoteagent] [info] Extension installed successfully: xdebug.php-pack
+[2023-02-12 16:53:09.516] [remoteagent] [info] [127.0.0.1][9771ad84][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-02-12 16:53:09.606] [remoteagent] [info] [127.0.0.1][be447618][ExtensionHostConnection] <303> Extension Host Process exited with code: 0, signal: null.

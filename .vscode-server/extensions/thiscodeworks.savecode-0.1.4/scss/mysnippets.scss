@@ -1,0 +1,186 @@
+body {
+    background: #0f2433;
+    color: #fff;
+}
+
+h1, pre, xmp {
+    font-family: Menlo,Bitstream Vera Sans Mono,DejaVu Sans Mono,Monaco,Consolas,monospace;
+}
+
+.menu {
+    margin: 30px 40px 20px;
+    display: flex;
+    justify-content: space-between;
+    #refresh {
+        background-color: #4fc1e9;
+        color: #fff;
+        margin-right: 10px;
+        &:hover {
+            background-color: #656d78;
+        }
+    }
+    input {
+        padding: 5px 10px;
+        border-radius: 5px;
+        &:focus {
+            outline: 1px solid #4fc1e9;
+            border-radius: 5px;
+        }
+    }
+    .button {
+        background-color: lightgrey;
+        color: #222;
+        border-radius: 5px;
+        padding: 10px 15px;
+        text-transform: uppercase;
+        border: none;
+        text-decoration: none;
+        &:focus {
+            outline: none;
+        }
+        &:hover {
+            background-color: darkgrey; 
+        }
+    }
+}
+
+#title {
+    margin: 0 40px;
+}
+
+a {
+    color: #039be5;
+    &:hover {
+       color: #FF4081
+    }
+}
+
+.gridview {
+    ul {
+        column-count: 3;
+        column-gap: 1em;
+    }
+    li {
+        list-style-type: none;
+        break-inside: avoid-column;
+    }
+    .card {
+        border-radius: 12px;
+        border: 1px solid darkgrey;
+        margin-bottom: 30px;
+        padding: 0;
+        .titlecontent {
+            padding: 15px 10px;
+            border-bottom: 1px solid darkgrey;
+        }
+        .buttons {
+            padding-top: 7px;
+        }
+        .title {
+            &:hover {
+                color:  #fff;
+                cursor: default;
+            }
+        }
+        .code {
+           border-radius: 0 0 12px 12px;
+           display: block;
+           margin: 0;
+           background: #2f4350;
+           font-size: 12px;
+           padding: 10px 7.5px;
+            xmp {
+                white-space: pre-wrap;
+                word-wrap: break-word;
+                .str{color:#ffce54}.kwd{color:#4fc1e9}.com{color:#656d78}.typ{color:#4fc1e9}.lit{color:#ac92ec}.pun{color:#e6e9ed}.opn{color:#e6e9ed}.clo{color:#e6e9ed}.tag{color:#4db6ac}.atn{color:#a0d468}.atv{color:#ffce54}.dec{color:#ac92ec}.var{color:#e6e9ed}.fun{color:#e6e9ed}
+            }
+        }
+    }
+}
+
+.listview {
+    ul {
+        padding: 0;
+        list-style-type: none;
+        li {
+            padding: 15px 5px;
+            border-bottom: 1px solid lightgrey;
+            border-right: 15px solid transparent;
+            border-left: 15px solid transparent;
+            .buttons {
+                display: none;
+            }
+            pre {
+                border-radius: 12px;
+                background-color: #2f4350;
+                padding: 10px 15px;
+                display: none;
+                xmp {
+                    white-space: pre-wrap;
+                    word-wrap: break-word;
+                    .str{color:#ffce54}.kwd{color:#4fc1e9}.com{color:#656d78}.typ{color:#4fc1e9}.lit{color:#ac92ec}.pun{color:#e6e9ed}.opn{color:#e6e9ed}.clo{color:#e6e9ed}.tag{color:#4db6ac}.atn{color:#a0d468}.atv{color:#ffce54}.dec{color:#ac92ec}.var{color:#e6e9ed}.fun{color:#e6e9ed}
+                } 
+            }
+        }
+    }
+}
+
+.hide {
+    display: none;
+}
+
+.title {
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+    display: block;
+    min-height: 21px;
+    font-size: 18px;
+    &:focus {
+        outline: none;
+    }
+} 
+.tag {
+    font-size: 11px;
+    padding-top: 4px;
+    color: rgb(136, 153, 166);
+    text-transform: lowercase;
+} 
+
+@media screen and (min-width: 1200px) {
+    .gridview {
+        ul {
+            column-count: 4;
+        }
+    }
+}
+
+@media screen and (max-width: 815px) {
+    .gridview {
+        ul {
+            column-count: 2;
+        }
+    }
+    .menu {
+        .leftbtns {
+            a {
+                display: block;
+                width: fit-content;
+              }
+        }
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .gridview {
+        ul {
+            column-count: 1;
+        }
+    }
+    .menu {
+        display: block;
+        div {
+            margin-top: 10px;
+        }
+    }
+}

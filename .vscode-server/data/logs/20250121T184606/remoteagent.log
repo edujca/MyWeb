@@ -1,0 +1,133 @@
+2025-01-21 18:46:06.300 [info] 
+
+
+
+
+2025-01-21 18:46:06.322 [info] Extension host agent started.
+2025-01-21 18:46:06.564 [info] [127.0.0.1][a25b9329][ManagementConnection] New connection established.
+2025-01-21 18:46:08.173 [info] [127.0.0.1][dd2a3e5a][ExtensionHostConnection] New connection established.
+2025-01-21 18:46:08.362 [info] [127.0.0.1][dd2a3e5a][ExtensionHostConnection] <280> Launched Extension Host Process.
+2025-01-21 18:46:09.111 [error] [/home/edujca/.vscode-server/extensions/tungvn.wordpress-snippet-1.1.5]: Failed to parse /home/edujca/.vscode-server/extensions/tungvn.wordpress-snippet-1.1.5/package.json: [0, 0] Value expected.
+2025-01-21 18:46:09.121 [error] [/home/edujca/.vscode-server/extensions/deibit.devdocs-0.2.0]: Failed to parse /home/edujca/.vscode-server/extensions/deibit.devdocs-0.2.0/package.json: [0, 0] Value expected.
+2025-01-21 18:46:09.852 [error] [/home/edujca/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.4]: Failed to parse /home/edujca/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.4/package.json: [0, 0] Value expected.
+2025-01-21 18:46:09.869 [error] [/home/edujca/.vscode-server/extensions/eamodio.gitlens-13.5.0]: Failed to parse /home/edujca/.vscode-server/extensions/eamodio.gitlens-13.5.0/package.json: [0, 0] Value expected.
+2025-01-21 18:46:15.238 [info] [127.0.0.1][dd2a3e5a][ExtensionHostConnection] <280><stderr> /bin/sh: 1: php: not found
+
+2025-01-21 18:46:15.713 [info] Getting Manifest... bmewburn.vscode-intelephense-client
+2025-01-21 18:46:15.713 [info] Getting Manifest... christian-kohler.path-intellisense
+2025-01-21 18:46:15.714 [info] Getting Manifest... devsense.composer-php-vscode
+2025-01-21 18:46:15.714 [info] Getting Manifest... devsense.phptools-vscode
+2025-01-21 18:46:15.715 [info] Getting Manifest... devsense.profiler-php-vscode
+2025-01-21 18:46:15.715 [info] Getting Manifest... eamodio.gitlens
+2025-01-21 18:46:15.715 [info] Getting Manifest... esbenp.prettier-vscode
+2025-01-21 18:46:15.715 [info] Getting Manifest... formulahendry.code-runner
+2025-01-21 18:46:15.715 [info] Getting Manifest... johnbillion.vscode-wordpress-hooks
+2025-01-21 18:46:15.715 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2025-01-21 18:46:15.716 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2025-01-21 18:46:15.716 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2025-01-21 18:46:15.716 [info] Getting Manifest... streetsidesoftware.code-spell-checker-spanish
+2025-01-21 18:46:15.716 [info] Getting Manifest... xdebug.php-debug
+2025-01-21 18:46:15.716 [info] Getting Manifest... zobo.php-intellisense
+2025-01-21 18:46:15.984 [info] Installing extension: devsense.phptools-vscode {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:16.210 [info] Installing extension: ms-ceintl.vscode-language-pack-es {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:16.331 [info] Installing extension: devsense.composer-php-vscode {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:16.515 [info] Installing extension: bmewburn.vscode-intelephense-client {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:16.526 [info] Installing extension: christian-kohler.path-intellisense {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:16.529 [info] Installing extension: devsense.profiler-php-vscode {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:16.614 [info] Installing extension: esbenp.prettier-vscode {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:16.650 [info] Installing extension: formulahendry.code-runner {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:16.836 [info] Installing extension: eamodio.gitlens {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:16.868 [info] Installing extension: johnbillion.vscode-wordpress-hooks {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:16.979 [info] Installing extension: streetsidesoftware.code-spell-checker-spanish {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:16.994 [info] Installing extension: xdebug.php-debug {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:16.996 [info] Installing extension: ms-vscode.vscode-typescript-next {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:17.055 [info] Installing extension: streetsidesoftware.code-spell-checker {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:17.106 [info] Installing extension: zobo.php-intellisense {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:17.671 [info] Getting Manifest... devsense.intelli-php-vscode
+2025-01-21 18:46:17.868 [info] Installing extension: devsense.intelli-php-vscode {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64","dependecyOrPackExtensionInstall":true},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/edujca/.vscode-server/extensions/extensions.json","external":"file:///home/edujca/.vscode-server/extensions/extensions.json","path":"/home/edujca/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-01-21 18:46:18.910 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2025-01-21 18:46:28.414 [info] Extension signature verification result for formulahendry.code-runner: Success. Executed: true. Duration: 8477ms.
+2025-01-21 18:46:28.734 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-es: Success. Executed: true. Duration: 9517ms.
+2025-01-21 18:46:28.820 [info] Extension signature verification result for streetsidesoftware.code-spell-checker: Success. Executed: true. Duration: 9207ms.
+2025-01-21 18:46:28.834 [info] Extension signature verification result for devsense.composer-php-vscode: Success. Executed: true. Duration: 9316ms.
+2025-01-21 18:46:28.936 [info] Extension signature verification result for devsense.profiler-php-vscode: Success. Executed: true. Duration: 9470ms.
+2025-01-21 18:46:29.029 [info] Extension signature verification result for johnbillion.vscode-wordpress-hooks: Success. Executed: true. Duration: 9448ms.
+2025-01-21 18:46:29.106 [info] Extension signature verification result for esbenp.prettier-vscode: Success. Executed: true. Duration: 9233ms.
+2025-01-21 18:46:29.151 [info] Extension signature verification result for eamodio.gitlens: Success. Executed: true. Duration: 9043ms.
+2025-01-21 18:46:29.152 [info] Extension signature verification result for ms-vscode.vscode-typescript-next: Success. Executed: true. Duration: 9601ms.
+2025-01-21 18:46:29.319 [info] Extension signature verification result for xdebug.php-debug: Success. Executed: true. Duration: 9172ms.
+2025-01-21 18:46:29.320 [info] Extension signature verification result for bmewburn.vscode-intelephense-client: Success. Executed: true. Duration: 9574ms.
+2025-01-21 18:46:29.353 [info] Extension signature verification result for devsense.phptools-vscode: Success. Executed: true. Duration: 9090ms.
+2025-01-21 18:46:29.376 [info] Extension signature verification result for christian-kohler.path-intellisense: Success. Executed: true. Duration: 9361ms.
+2025-01-21 18:46:29.425 [info] Extension signature verification result for streetsidesoftware.code-spell-checker-spanish: Success. Executed: true. Duration: 8805ms.
+2025-01-21 18:46:29.428 [info] Extension signature verification result for zobo.php-intellisense: Success. Executed: true. Duration: 8610ms.
+2025-01-21 18:46:29.537 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/devsense.composer-php-vscode-1.55.16685: devsense.composer-php-vscode
+2025-01-21 18:46:29.646 [info] Renamed to /home/edujca/.vscode-server/extensions/devsense.composer-php-vscode-1.55.16685
+2025-01-21 18:46:29.956 [info] Marked extension as uninstalled devsense.composer-php-vscode-1.36.13417
+2025-01-21 18:46:29.978 [info] Extension installed successfully: devsense.composer-php-vscode file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:30.042 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/devsense.profiler-php-vscode-1.55.16685: devsense.profiler-php-vscode
+2025-01-21 18:46:30.181 [info] Renamed to /home/edujca/.vscode-server/extensions/devsense.profiler-php-vscode-1.55.16685
+2025-01-21 18:46:30.599 [info] Marked extension as uninstalled devsense.profiler-php-vscode-1.36.13417
+2025-01-21 18:46:30.651 [info] Extension installed successfully: devsense.profiler-php-vscode file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:30.889 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/streetsidesoftware.code-spell-checker-spanish-2.3.5: streetsidesoftware.code-spell-checker-spanish
+2025-01-21 18:46:31.051 [info] Renamed to /home/edujca/.vscode-server/extensions/streetsidesoftware.code-spell-checker-spanish-2.3.5
+2025-01-21 18:46:31.245 [info] Marked extension as uninstalled streetsidesoftware.code-spell-checker-spanish-2.2.0
+2025-01-21 18:46:31.266 [info] Extension installed successfully: streetsidesoftware.code-spell-checker-spanish file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:31.278 [info] Extension signature verification result for devsense.intelli-php-vscode: Success. Executed: true. Duration: 6583ms.
+2025-01-21 18:46:31.317 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/johnbillion.vscode-wordpress-hooks-1.5.0: johnbillion.vscode-wordpress-hooks
+2025-01-21 18:46:31.369 [info] Renamed to /home/edujca/.vscode-server/extensions/johnbillion.vscode-wordpress-hooks-1.5.0
+2025-01-21 18:46:31.516 [info] Marked extension as uninstalled johnbillion.vscode-wordpress-hooks-1.1.0
+2025-01-21 18:46:31.543 [info] Extension installed successfully: johnbillion.vscode-wordpress-hooks file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:32.328 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/christian-kohler.path-intellisense-2.10.0: christian-kohler.path-intellisense
+2025-01-21 18:46:32.375 [info] Renamed to /home/edujca/.vscode-server/extensions/christian-kohler.path-intellisense-2.10.0
+2025-01-21 18:46:32.466 [info] Marked extension as uninstalled christian-kohler.path-intellisense-2.8.4
+2025-01-21 18:46:32.488 [info] Extension installed successfully: christian-kohler.path-intellisense file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:32.962 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.96.2024121109: ms-ceintl.vscode-language-pack-es
+2025-01-21 18:46:33.116 [info] Renamed to /home/edujca/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.96.2024121109
+2025-01-21 18:46:33.441 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2025-01-21 18:46:33.536 [info] Renamed to /home/edujca/.vscode-server/extensions/esbenp.prettier-vscode-11.0.0
+2025-01-21 18:46:33.714 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.75.2023021509
+2025-01-21 18:46:33.790 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2025-01-21 18:46:33.901 [info] Marked extension as uninstalled esbenp.prettier-vscode-9.19.0
+2025-01-21 18:46:33.942 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2025-01-21 18:46:33.955 [info] Extension installed successfully: esbenp.prettier-vscode file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:34.109 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:34.163 [info] Renamed to /home/edujca/.vscode-server/extensions/formulahendry.code-runner-0.12.2
+2025-01-21 18:46:34.370 [info] Marked extension as uninstalled formulahendry.code-runner-0.12.0
+2025-01-21 18:46:34.393 [info] Extension installed successfully: formulahendry.code-runner file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:36.776 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/ms-vscode.vscode-typescript-next-5.8.20250120: ms-vscode.vscode-typescript-next
+2025-01-21 18:46:36.824 [info] Renamed to /home/edujca/.vscode-server/extensions/ms-vscode.vscode-typescript-next-5.8.20250120
+2025-01-21 18:46:36.910 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.2.20230726
+2025-01-21 18:46:36.957 [info] Extension installed successfully: ms-vscode.vscode-typescript-next file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:37.128 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/devsense.phptools-vscode-1.55.16685-linux-x64: devsense.phptools-vscode
+2025-01-21 18:46:37.156 [info] Renamed to /home/edujca/.vscode-server/extensions/devsense.phptools-vscode-1.55.16685-linux-x64
+2025-01-21 18:46:37.265 [info] Marked extension as uninstalled devsense.phptools-vscode-1.33.12934-linux-x64
+2025-01-21 18:46:37.569 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/streetsidesoftware.code-spell-checker-4.0.34: streetsidesoftware.code-spell-checker
+2025-01-21 18:46:37.663 [info] Renamed to /home/edujca/.vscode-server/extensions/streetsidesoftware.code-spell-checker-4.0.34
+2025-01-21 18:46:37.725 [info] Marked extension as uninstalled streetsidesoftware.code-spell-checker-2.20.3
+2025-01-21 18:46:37.738 [info] Extension installed successfully: streetsidesoftware.code-spell-checker file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:38.067 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/eamodio.gitlens-16.2.0: eamodio.gitlens
+2025-01-21 18:46:38.120 [info] Renamed to /home/edujca/.vscode-server/extensions/eamodio.gitlens-16.2.0
+2025-01-21 18:46:38.209 [info] Marked extension as uninstalled eamodio.gitlens-13.5.0
+2025-01-21 18:46:38.225 [info] Extension installed successfully: eamodio.gitlens file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:39.836 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.12.6: bmewburn.vscode-intelephense-client
+2025-01-21 18:46:39.960 [info] Renamed to /home/edujca/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.12.6
+2025-01-21 18:46:40.015 [info] Marked extension as uninstalled bmewburn.vscode-intelephense-client-1.9.5
+2025-01-21 18:46:40.027 [info] Extension installed successfully: bmewburn.vscode-intelephense-client file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:40.141 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/xdebug.php-debug-1.35.0: xdebug.php-debug
+2025-01-21 18:46:40.265 [info] Renamed to /home/edujca/.vscode-server/extensions/xdebug.php-debug-1.35.0
+2025-01-21 18:46:40.352 [info] Marked extension as uninstalled xdebug.php-debug-1.33.0
+2025-01-21 18:46:40.366 [info] Extension installed successfully: xdebug.php-debug file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:44.887 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/devsense.intelli-php-vscode-0.12.15062-linux-x64: devsense.intelli-php-vscode
+2025-01-21 18:46:44.901 [info] Renamed to /home/edujca/.vscode-server/extensions/devsense.intelli-php-vscode-0.12.15062-linux-x64
+2025-01-21 18:46:44.964 [info] Extension installed successfully: devsense.phptools-vscode file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:44.964 [info] Extension installed successfully: devsense.intelli-php-vscode file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:46:49.600 [info] Extracted extension to file:///home/edujca/.vscode-server/extensions/zobo.php-intellisense-1.3.3: zobo.php-intellisense
+2025-01-21 18:46:49.960 [info] Renamed to /home/edujca/.vscode-server/extensions/zobo.php-intellisense-1.3.3
+2025-01-21 18:46:50.005 [info] Marked extension as uninstalled zobo.php-intellisense-1.2.0
+2025-01-21 18:46:50.013 [info] Extension installed successfully: zobo.php-intellisense file:///home/edujca/.vscode-server/extensions/extensions.json
+2025-01-21 18:48:37.396 [error] [network] #60: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST read ECONNRESET
+2025-01-21 18:50:40.426 [info] [127.0.0.1][dd2a3e5a][ExtensionHostConnection] <280> [0mGET /favicon.ico [33m404[0m 3.432 ms - 150[0m
+
+2025-01-21 18:52:00.454 [info] [127.0.0.1][a25b9329][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-21 18:52:00.833 [info] [127.0.0.1][dd2a3e5a][ExtensionHostConnection] <280> Extension Host Process exited with code: 0, signal: null.
